@@ -1,0 +1,45 @@
+{
+  "cipok": [
+    {
+      "nev": "Air Jordan 1",
+      "marka": "Nike",
+      "ar": 65000,
+      "datum": "2026-01-10",
+      "raktaron": true,
+      "id": "6SZrAnG30eA"
+    },
+    {
+      "nev": "Superstar",
+      "marka": "Adidas",
+      "ar": 35000,
+      "datum": "2026-02-15",
+      "raktaron": true,
+      "id": "O053tACcYRA"
+    },
+    {
+      "nev": "Chuck Taylor All Star",
+      "marka": "Converse",
+      "ar": 28000,
+      "datum": "2026-03-20",
+      "raktaron": false,
+      "id": "J3VlMnryQuM"
+    },
+    {
+      "nev": "Old Skool",
+      "marka": "Vans",
+      "ar": 32000,
+      "datum": "2026-04-05",
+      "raktaron": true,
+      "id": "WESwizpQziE"
+    },
+    {
+      "nev": "Suede",
+      "marka": "Puma",
+      "ar": 30000,
+      "datum": "2026-05-12",
+      "raktaron": false,
+      "id": "hJxXp42rUrM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
